@@ -1,10 +1,10 @@
 {
-  "Version": "1.0.2",
+  "Version": "18.0.0",
   "ReleaseNotes": "CONFIG VERSION 1.1.6\n\nWHAT'S NEW???\n\nNEW FRESH SERVER\n\nHONGKONG SERVER\nJAPAN SERVER\nPH SERVER\nSINGAPORE SERVER\n    ",
   "ReleaseNotes1": "THANK YOU FOR SUPPORTING THIS APK❤️",
   "Servers": [
     {
-      "Name": "Random Server",
+      "Name": "boy",
       "FLAG": "kr",
       "ServerIP": "198.58.119.148",
       "ServerUser": "agnudp",
