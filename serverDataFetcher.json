@@ -1,10 +1,10 @@
 {
-  "Version": "30.0.0",
-  "ReleaseNotes": "CONFIG VERSION 3.0.0\n\nWHAT'S NEW???\n\nALL SERVERS BACK ONLINE\n\nAMERICA SERVER\nUNITED KINGDOM SERVER\nFRANCE SERVER\nSINGAPORE SERVER\n    ",
+  "Version": "40.0.0",
+  "ReleaseNotes": "CONFIG VERSION 4.0.0\n\nWHAT'S NEW???\n\nALL SERVERS BACK ONLINE\n\nAMERICA SERVER\nUNITED KINGDOM SERVER\nFRANCE SERVER\nSINGAPORE SERVER\n    ",
   "ReleaseNotes1": "THANK YOU FOR SUPPORTING EW TUNNEL❤️",
   "Servers": [
     {
-      "Name": "EW BOYS",
+      "Name": "RANDOM SERVER",
       "FLAG": "kr",
       "ServerIP": "198.58.119.148",
       "ServerUser": "agnudp",
