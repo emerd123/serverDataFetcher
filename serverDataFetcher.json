@@ -1,12 +1,12 @@
 {
-  "Version": "51.0.0",
-  "ReleaseNotes": "CONFIG VERSION 6.0.0\n\nWHAT'S NEW???\n\nALL SERVERS BACK ONLINE\n\nAMERICA SERVER\nUNITED KINGDOM SERVER\nFRANCE SERVER\nSINGAPORE SERVER\n    ",
+  "Version": "52.0.0",
+  "ReleaseNotes": "CONFIG VERSION 7.0.0\n\nWHAT'S NEW???\n\nSERVERS SUPPORT WHATSAP CALLS AND GAMING\n\nAMERICA SERVER\nUNITED KINGDOM SERVER\nFRANCE SERVER\nSINGAPORE SERVER\n    ",
   "ReleaseNotes1": "THANK YOU FOR SUPPORTING EW TUNNEL❤️",
   "Servers": [
     {
       "Name": "RANDOM SERVER",
       "FLAG": "kr",
-      "ServerIP": "198.58.119.148",
+      "ServerIP": "72.14.182.144",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -18,7 +18,7 @@
     {
       "Name": "AMERICA",
       "FLAG": "us",
-      "ServerIP": "198.58.119.148",
+      "ServerIP": "72.14.182.144",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -30,9 +30,9 @@
     {
       "Name": "Singapore",
       "FLAG": "sg",
-      "ServerIP": "172.232.24.192",
-      "ServerUser": "Farik",
-      "ServerPass": "Farik",
+      "ServerIP": "72.14.182.144",
+      "ServerUser": "agnudp",
+      "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
       "Slowchave": "",
       "Nameserver": "",
@@ -42,7 +42,7 @@
     {
       "Name": "German",
       "FLAG": "de",
-      "ServerIP": "198.58.119.148",
+      "ServerIP": "72.14.182.144",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -54,7 +54,7 @@
     {
       "Name": "Canada",
       "FLAG": "ca",
-      "ServerIP": "198.58.119.148",
+      "ServerIP": "72.14.182.144",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -66,9 +66,9 @@
     {
       "Name": "UNITED KINGDOM",
       "FLAG": "uk",
-      "ServerIP": "172.232.24.192",
-      "ServerUser": "Farik",
-      "ServerPass": "Farik",
+      "ServerIP": "72.14.182.144",
+      "ServerUser": "agnudp",
+      "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
       "Slowchave": "",
       "Nameserver": "",
@@ -78,7 +78,7 @@
     {
       "Name": "SENEGAL",
       "FLAG": "th",
-      "ServerIP": "198.58.119.148",
+      "ServerIP": "72.14.182.144",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -90,9 +90,9 @@
     {
       "Name": "JAPAN",
       "FLAG": "jp",
-      "ServerIP": "172.232.24.192",
-      "ServerUser": "Farik",
-      "ServerPass": "Farik",
+      "ServerIP": "72.14.182.144",
+      "ServerUser": "agnudp",
+      "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
       "Slowchave": "",
       "Nameserver": "",
@@ -102,7 +102,7 @@
     {
       "Name": "IRAN",
       "FLAG": "Ir",
-      "ServerIP": "198.58.119.148",
+      "ServerIP": "72.14.182.144",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -114,7 +114,7 @@
     {
       "Name": "France",
       "FLAG": "hk",
-      "ServerIP": "198.58.119.148",
+      "ServerIP": "72.14.182.144",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -126,7 +126,7 @@
     {
       "Name": "China",
       "FLAG": "cn",
-      "ServerIP": "198.58.119.148",
+      "ServerIP": "72.14.182.144",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
