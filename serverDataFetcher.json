@@ -4,9 +4,9 @@
   "ReleaseNotes1": "THANK YOU FOR SUPPORTING EW TUNNEL❤️",
   "Servers": [
     {
-      "Name": "RANDOM SERVER",
+      "Name": "VOIP RANDOM SERVERS",
       "FLAG": "kr",
-      "ServerIP": "72.14.182.144",
+      "ServerIP": "72.14.190.213",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -30,7 +30,7 @@
     {
       "Name": "Singapore",
       "FLAG": "sg",
-      "ServerIP": "72.14.182.144",
+      "ServerIP": "72.14.190.213",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -54,7 +54,7 @@
     {
       "Name": "Canada",
       "FLAG": "ca",
-      "ServerIP": "72.14.182.144",
+      "ServerIP": "72.14.190.213",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -90,7 +90,7 @@
     {
       "Name": "JAPAN",
       "FLAG": "jp",
-      "ServerIP": "72.14.182.144",
+      "ServerIP": "72.14.190.213",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
