@@ -6,7 +6,7 @@
     {
       "Name": "Random Server",
       "FLAG": "kr",
-      "ServerIP": "192.46.222.249",
+      "ServerIP": "213.168.251.225",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -18,7 +18,7 @@
     {
       "Name": "Toronto",
       "FLAG": "ca",
-      "ServerIP": "192.46.222.249",
+      "ServerIP": "213.168.251.225",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
