@@ -1,12 +1,12 @@
 {
-  "Version": "72.0.0",
+  "Version": "73.0.0",
   "ReleaseNotes": "CONFIG VERSION 10.0.0\n\nWHAT'S NEW???\n\nSERVERS SUPPORT WHATSAP CALLS AND GAMING\n\nAMERICA SERVER\nUNITED KINGDOM SERVER\nFRANCE SERVER\nSINGAPORE SERVER\n    ",
   "ReleaseNotes1": "THANK YOU FOR SUPPORTING EW TUNNEL❤️",
   "Servers": [
     {
-      "Name": "Random Server",
+      "Name": "Random Server (VOIP)",
       "FLAG": "kr",
-      "ServerIP": "213.168.251.225",
+      "ServerIP": "192.46.222.249",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -18,7 +18,7 @@
     {
       "Name": "Toronto",
       "FLAG": "ca",
-      "ServerIP": "213.168.251.225",
+      "ServerIP": "192.46.222.249",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
