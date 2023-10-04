@@ -6,7 +6,7 @@
     {
       "Name": "Japan",
       "FLAG": "kr",
-      "ServerIP": "192.46.222.249",
+      "ServerIP": "68.183.153.31",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -18,7 +18,7 @@
     {
       "Name": "Toronto",
       "FLAG": "ca",
-      "ServerIP": "192.46.222.249",
+      "ServerIP": "143.110.208.193",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -42,7 +42,7 @@
     {
       "Name": "Singapore",
       "FLAG": "Ir",
-      "ServerIP": "172.105.115.191",
+      "ServerIP": "170.187.224.153",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -54,7 +54,7 @@
     {
       "Name": "America",
       "FLAG": "us",
-      "ServerIP": "194.195.124.187",
+      "ServerIP": "139.144.99.226",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
