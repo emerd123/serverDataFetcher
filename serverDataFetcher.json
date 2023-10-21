@@ -1,12 +1,12 @@
 {
-  "Version": "97.0.0",
+  "Version": "98.0.0",
   "ReleaseNotes": "CONFIG VERSION 10.0.0\n\nWHAT'S NEW???\n\nSERVERS SUPPORT WHATSAP CALLS AND GAMING\n\nAMERICA SERVER\nUNITED KINGDOM SERVER\nFRANCE SERVER\nSINGAPORE SERVER\n    ",
   "ReleaseNotes1": "THANK YOU FOR SUPPORTING EW TUNNEL❤️",
   "Servers": [
     {
       "Name": "America",
       "FLAG": "us",
-      "ServerIP": "51.161.10.72",
+      "ServerIP": "146.190.112.108",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -18,7 +18,7 @@
     {
       "Name": "Toronto",
       "FLAG": "ca",
-      "ServerIP": "51.161.10.72",
+      "ServerIP": "146.190.112.108",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -30,7 +30,7 @@
     {
       "Name": "Russia VOIP",
       "FLAG": "ph",
-      "ServerIP": "54.90.198.32",
+      "ServerIP": "174.138.95.86",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -42,7 +42,7 @@
     {
       "Name": "London VOIP",
       "FLAG": "uk",
-      "ServerIP": "54.90.198.32",
+      "ServerIP": "174.138.95.86",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -54,7 +54,7 @@
     {
       "Name": "Singapore",
       "FLAG": "sg",
-      "ServerIP": "54.90.198.32",
+      "ServerIP": "146.190.112.108",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -66,7 +66,7 @@
     {
       "Name": "AMERICA 2",
       "FLAG": "us",
-      "ServerIP": "54.90.198.32",
+      "ServerIP": "174.138.95.86",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
