@@ -1,12 +1,12 @@
 {
-  "Version": "130.1.1",
+  "Version": "131.1.1",
   "ReleaseNotes": "CONFIG VERSION 10.0.0\n\nWHAT'S NEW???\n\nSERVERS SUPPORT WHATSAP CALLS AND GAMING\n\nAMERICA SERVER\nUNITED KINGDOM SERVER\nFRANCE SERVER\nSINGAPORE SERVER\n    ",
   "ReleaseNotes1": "THANK YOU FOR SUPPORTING EW TUNNEL❤️",
   "Servers": [
     {
       "Name": "NEW YORK",
       "FLAG": "us",
-      "ServerIP": "45.55.134.229",
+      "ServerIP": "64.23.152.184",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -18,7 +18,7 @@
     {
       "Name": "America ARIZONA",
       "FLAG": "us",
-      "ServerIP": "45.55.134.229",
+      "ServerIP": "64.23.152.184",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
@@ -30,7 +30,7 @@
     {
       "Name": "America Alaska",
       "FLAG": "ph",
-      "ServerIP": "45.55.134.229",
+      "ServerIP": "64.23.152.184",
       "ServerUser": "agnudp",
       "ServerPass": "agnudp",
       "sInfo": "NO DATA LOAD",
