@@ -1,7 +1,7 @@
 {
-  "id": 1,
+  "id": 2,
   "active": true,
-  "title": "New servers available",
+  "title": "New Servers Available",
   "body": "Update the app to see the new servers.",
   "button": "Update",
   "url": "",
